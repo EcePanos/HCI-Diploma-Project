@@ -8,3 +8,5 @@ Different Unity scenes use different input methods. Some are played with a keybo
 Note 1: The project requires the controller prototype to run the motion-controlled scenes. The Arduino on its own lacks the motion-sensing capability.
 
 Note 2: Unity's compatibility mode needs to be set from .NET 2.0 subset to .NET 2.0 in order for it to support serial communication with the Arduino.
+
+Note 3: The Unity package for the entire project was too big to upload here.
