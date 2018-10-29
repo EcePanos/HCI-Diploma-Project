@@ -5,7 +5,7 @@ The arduino sketch must be loaded into the arduino board BEFORE running the Unit
 
 Different Unity scenes use different input methods. Some are played with a keyboard (for comparison purposes) and some with the controller prototype.
 
-Scenes included in this implementation include the early demos, the thesis presentation demo as well as a separate demo created to test the efficiency of the tool in gesture-based user authentification.
+Scenes included in this implementation include the early demos (model showcases and a motion controlled adaptation of the Unity turorial minigame), the thesis presentation demo (a geography quiz where the user is tasked with finding different areas on a 3D globe) as well as a separate demo created to test the efficiency of the tool in gesture-based user authentification.
 
 Note 1: The project requires the controller prototype to run the motion-controlled scenes. The Arduino on its own lacks the motion-sensing capability.
 
